@@ -1,0 +1,48 @@
+administrator: administrator
+user: user
+dashboard: Dashboard
+First name: First name
+Last name: Last name
+Password: Password
+Repeat Password: Repeat Password
+language_preferences: Language preferences
+Register: Register
+sign_in_to_admin: Sign in
+Les informations que vous avez fournies ne sont pas bonnes.: The information you have provided is not correct.
+Log in: Log in
+forget_password: Forget password
+Send email: Send email
+Please enter your email: Please enter your email
+Recovery password: Recovery password
+No data available in the table: No data available in the table
+search: Search
+show: Show
+entries: entries
+showing: Showing 0 to 0 of 0 entries
+showing_info: Showing
+First: First
+Last: Last
+Next: Next
+previous: Previous
+project_list: Project List
+manage_projects: Manage projects
+Project: Project
+Projects: Projects
+list: List
+add_project: Add project
+Name: Name
+action: Action
+create_project: Create Project
+New: New
+create: Create
+Cancel: Cancel
+project_created: Project created
+edit_project: Edit project
+edit: Edit
+project_edited: Project edited
+project_deleted: Project deleted
+remove: remove
+Collaborater: Collaborater
+Please enter email: Please enter email
+to: to
+of: of

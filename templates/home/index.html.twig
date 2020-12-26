@@ -1,0 +1,25 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ 'admin_dashboard'|trans }} {% endblock %}
+
+{% block body %}
+<link rel="stylesheet" href="{{ asset('assets/css/demo.css') }}">
+    <div class="wrapper">
+        <div class="main-header">
+            <!-- Logo Header -->
+            {% include 'partial/logoheader.html.twig' %}
+            <!-- End Logo Header -->
+            {% include 'partial/navbar.html.twig' %}
+        </div>
+        {% include 'partial/sidebar.html.twig' %}
+        <div class="main-panel">
+            <div class="content">
+                <div class="container-fluid">
+                    <div class="page-header">
+                        <h4 class="page-title">{{ 'dashboard'|trans }}</h4>
+                    </div>
+                </div>
+            </div>        
+        </div>
+    </div>
+{% endblock %}
